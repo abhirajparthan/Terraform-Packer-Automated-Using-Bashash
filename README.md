@@ -62,4 +62,19 @@ This repo consisit of a Bash Script which integrates both Terraform code and Pac
 
 
 
-[ln]: https://www.linkedin.com/in/manu-george-03453613a
+
+---
+## Conclusion
+
+In this tutorial explain how to build AMI using packer tool.
+
+---
+### ⚙️ Connect with Me
+
+ <p align="center">
+<a href="mailto:aparthan275@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_r.e.b.e.l.z_33/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhiraj-parthan-82038b191"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.wppredirect.tk/go/?p=918893532145&m=Abhiraj%20Parthan."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  </a></p>
+</div>
